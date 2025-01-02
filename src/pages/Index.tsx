@@ -4,6 +4,7 @@ import Education from '../components/Education';
 import ProfessionalInterests from '../components/ProfessionalInterests';
 import WorkExperience from '../components/WorkExperience';
 import PersonalInterests from '../components/PersonalInterests';
+import Papers from '../components/Papers';
 
 const Index = () => {
   return (
@@ -14,6 +15,7 @@ const Index = () => {
         <ProfessionalInterests />
         <WorkExperience />
         <PersonalInterests />
+        <Papers />
       </div>
     </div>
   );
