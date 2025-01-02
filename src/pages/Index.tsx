@@ -7,7 +7,7 @@ import PersonalInterests from '../components/PersonalInterests';
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen bg-navy">
       <div className="max-w-4xl mx-auto px-4">
         <Header />
         <Education />
