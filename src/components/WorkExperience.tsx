@@ -24,7 +24,7 @@ const WorkExperience = () => {
         <div>
           <h3 className="text-xl font-semibold mb-2 text-softwhite">Current Project: Visual Question Answering</h3>
           <p className="text-softwhite/80 leading-relaxed">
-            Developing a VQA model to enhance human-computer interaction on social media platforms.
+            Developing a VQA application to enhance human-computer interaction on social media platforms.
             This technology enables more natural and context-aware communication between users and AI systems,
             improving content moderation, accessibility, and user engagement through intelligent
             image understanding and response generation.
