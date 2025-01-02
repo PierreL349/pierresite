@@ -27,7 +27,7 @@ const Papers = () => {
     },
     {
       title: "Social VQA Systems: Pioneering AI Agents in Visual Intelligence and Human Connection",
-      date: "March 2024"
+      date: "(In Progress)"
     }
   ];
 
