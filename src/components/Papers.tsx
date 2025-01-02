@@ -24,6 +24,10 @@ const Papers = () => {
     {
       title: "Advanced Hyperscale Data Center Strategy and Optimization for LLM Training and Finetuning",
       date: "September 2024"
+    },
+    {
+      title: "Social VQA Systems: Pioneering AI Agents in Visual Intelligence and Human Connection",
+      date: "March 2024"
     }
   ];
 
